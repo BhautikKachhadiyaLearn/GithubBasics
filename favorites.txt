@@ -1,3 +1,6 @@
 KGF
 KGF2
 SIMBA
+pizza
+Burger
+Sandwitch
